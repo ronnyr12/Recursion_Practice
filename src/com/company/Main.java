@@ -6,7 +6,10 @@ public class Main {
 	//testing recursion
         System.out.println(power(2,3));
 
+        System.out.println("yahav isnt vegan!");
+
     }
+
 
     public static int power(int a, int b)
     {
